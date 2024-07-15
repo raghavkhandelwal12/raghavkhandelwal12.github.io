@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Raghav Khandelwal]("D:\IMG-20221024-WA0018.jpg")
+![Raghav Khandelwal](D:\IMG-20221024-WA0018.jpg)
 
 ## About Me
 Hello! I'm [Your Name], a software developer specializing in machine learning, computer vision, and web development. I love creating innovative solutions and learning new technologies.
