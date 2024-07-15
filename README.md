@@ -3,17 +3,13 @@
 ![Raghav Khandelwal](https://github.com/raghavkhandelwal12/your-repository/blob/main/IMG-20221024-WA0018.jpg)
 
 ## About Me
-Hello! I'm [Your Name], a software developer specializing in machine learning, computer vision, and web development. I love creating innovative solutions and learning new technologies.
+Hello! I'm Raghav Khandelwal, a Data Science specializing in machine learning, computer vision. I love creating innovative solutions and learning new technologies.
 
 ## Skills
-- **Languages**: Python, JavaScript
+- **Languages**: Python, C
 - **Frameworks**: TensorFlow, Keras
-- **Libraries**: OpenCV, NumPy
-- **Tools**: Git, Docker
-
-## Projects
-- **[Project Name 1](https://github.com/raghavkhandelwal12/project1)**: A brief description of what this project does.
-- **[Project Name 2](https://github.com/raghavkhandelwal12/project2)**: A brief description of what this project does.
+- **Libraries**: OpenCV, NumPy,Pandas,Matplotlib
+- **Tools**: Git, Vscode
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/raghav-khandelwal-031452229/)
