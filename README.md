@@ -1,14 +1,14 @@
 # Welcome to My GitHub Profile!
 
-![Raghav Khandelwal](!"C:\Users\pc\Downloads\test_image_house.jpg")
+![Raghav Khandelwal](https://github.com/raghavkhandelwal12/raghavkhandelwal12/main/test_image_house.jpg)
 
 ## About Me
-Hello! I'm Raghav Khandelwal, a Data Science specializing in machine learning, computer vision. I love creating innovative solutions and learning new technologies.
+Hello! I'm Raghav Khandelwal, a Data Scientist specializing in machine learning and computer vision. I love creating innovative solutions and learning new technologies.
 
 ## Skills
-- **Languages**: Python, C,Machine Learning
+- **Languages**: Python, C, Machine Learning
 - **Frameworks**: TensorFlow, Keras
-- **Libraries**: OpenCV, NumPy,Pandas,Matplotlib
+- **Libraries**: OpenCV, NumPy, Pandas, Matplotlib
 - **Tools**: Git, Vscode
 
 ## Contact Me
