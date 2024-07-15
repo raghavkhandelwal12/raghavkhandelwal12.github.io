@@ -40,48 +40,4 @@ Hello! I'm **Raghav Khandelwal**, a Data Scientist specializing in machine learn
   <p>Contact Number: 7877578237</p>
 </div>
 
-<style>
-@keyframes float {
-  0% {
-    transform: translatey(0px);
-  }
-  50% {
-    transform: translatey(-10px);
-  }
-  100% {
-    transform: translatey(0px);
-  }
-}
 
-body {
-  font-family: Arial, sans-serif;
-}
-
-h1 {
-  color: #2e86de;
-  text-align: center;
-}
-
-h2 {
-  color: #333;
-  text-align: center;
-}
-
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-@media screen and (min-width: 768px) {
-  .skills, .projects, .contact {
-    display: flex;
-    justify-content: space-around;
-  }
-
-  .skills div, .projects div, .contact div {
-    flex-basis: 30%;
-    padding: 10px;
-  }
-}
-</style>
