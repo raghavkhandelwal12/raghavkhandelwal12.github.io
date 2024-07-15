@@ -53,7 +53,7 @@
 <body>
 
 <header>
-    <img src="C:\Users\pc\Downloads\WhatsApp Image 2024-07-15 at 11.40.43_18a74882.jpg" alt="Profile Image">
+    <img src="WhatsApp Image 2024-07-15 at 11.40.43_18a74882.jpg" alt="Profile Image">
     <h1>Welcome to My GitHub Profile!</h1>
 </header>
 
@@ -120,5 +120,3 @@
 
 </body>
 </html>
-
-
