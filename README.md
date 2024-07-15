@@ -15,6 +15,5 @@ Hello! I'm [Your Name], a software developer specializing in machine learning, c
 - **[Project Name 2](https://github.com/your-username/project2)**: A brief description of what this project does.
 
 ## Contact Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/raghav-khandelwal-031452229/)
+- [Email](raghavkhandelwal761@gmail.com)
