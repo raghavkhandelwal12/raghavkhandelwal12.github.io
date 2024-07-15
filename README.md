@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Raghav Khandelwal]("C:\Users\pc\Downloads\test_image_house.jpg")
+![Raghav Khandelwal](!"C:\Users\pc\Downloads\test_image_house.jpg")
 
 ## About Me
 Hello! I'm Raghav Khandelwal, a Data Science specializing in machine learning, computer vision. I love creating innovative solutions and learning new technologies.
